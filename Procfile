@@ -1,1 +1,1 @@
-web: NODE_ENV=production node app
+web: cross-env NODE_ENV=production node app
