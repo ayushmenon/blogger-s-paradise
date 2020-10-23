@@ -6,3 +6,5 @@ Potential Next Steps:
 - Create front-end with React and transform the current app to backend
 - Add ability to share and collaborate on the same document 
 - Add functionality for concurrent editing of a document
+
+Deployed at : https://bloggers-paradise.herokuapp.com/ 
