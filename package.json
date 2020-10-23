@@ -7,7 +7,7 @@
   "description": "App to create public and private stories",
   "main": "app.js",
   "scripts": {
-    "start": "node app NODE_ENV=production",
+    "start": "node app",
     "dev": "cross-env NODE_ENV=development nodemon app"
   },
   "author": "Ayush Menon",
